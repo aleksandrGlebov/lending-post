@@ -1,0 +1,30 @@
+{
+    "title": "¡Hazte socio de Postalio!",
+    "subtitle": "Nuestro producto te ayudará a atraer nuevos visitantes a tu punto de venta, recuperar tu inversión en un año y generar ingresos pasivos.",
+    "features": [
+      "Vending compacto, del tamaño de una caja de zapatos.",
+      "Venta de postales con sellos prepegados.",
+      "Suscripción a marketing, servicios digitales y logística."
+    ],
+    "seeMore": "Ver más",
+    "expensesTitle": "Tus costos",
+    "expenses": [
+      "Compra de la máquina – $1500",
+      "Reposición de postales – $300",
+      "Mantenimiento mensual: infraestructura digital, logística, marketing, soporte técnico – $200"
+    ],
+    "featuresTitle": "Nuestras Funciones",
+    "featuresList": [
+      "Controla inventarios y flujo de efectivo directamente desde tu celular"
+    ],
+    "contactTitle": "¡Únete a nosotros y comienza tu viaje!",
+    "contact": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "message": "Mensaje",
+      "submit": "Enviar"
+    },
+    "contactUs": "Contáctanos si tienes alguna pregunta."
+  }
+  

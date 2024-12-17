@@ -1,0 +1,30 @@
+{
+    "title": "Become a Postalio Partner!",
+    "subtitle": "Our product will help attract new visitors to your point of sale, pay off your investment within a year, and provide passive income.",
+    "features": [
+      "Compact vending, the size of a shoebox.",
+      "Selling postcards with pre-stamped postage.",
+      "Subscription-based marketing, digital services, and logistics."
+    ],
+    "seeMore": "See more",
+    "expensesTitle": "Your expenses",
+    "expenses": [
+      "Purchase of the machine – $1500",
+      "Restocking postcards – $300",
+      "Monthly maintenance: digital infrastructure, logistics, marketing, technical support – $200"
+    ],
+    "featuresTitle": "Our Features",
+    "featuresList": [
+      "The dashboard to manage inventory and cash flow is accessible right from your mobile phone"
+    ],
+    "contactTitle": "Join us and start your journey!",
+    "contact": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Submit"
+    },
+    "contactUs": "Contact us if you have any questions."
+  }
+  
